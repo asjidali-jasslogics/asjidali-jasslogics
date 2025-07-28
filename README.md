@@ -24,21 +24,6 @@ I'm a Software Engineer fluent in `Full Stack Web Applications`, `Progressive We
 
 </p>
 
-## Languages and Tools:
-
-**Frontend Technologies:**
-![React](https://skillicons.dev/icons?i=react,next,js,ts,remix,bootstrap,tailwind,)
-
-**Backend Technologies:**
-![Node.js](https://skillicons.dev/icons?i=nodejs,next,js,ts,express,laravel,kafka,php,python)
-
-
-**Database Technologies:**
-![MongoDB](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite,firebase,redis)
-
-**DevOps Technologies:**
-![Docker](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform,grafana,aws,linux)
-
 
 
 ###
