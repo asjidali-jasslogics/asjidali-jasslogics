@@ -7,8 +7,6 @@
 ## 👋 Hello!  
 I'm a Software Engineer fluent in `Full Stack Web Applications`, `Progressive Web Apps(PWA)`, `Mobile Applicatoin`, `DevOps`, I have worked and sucessfully integrated multiple database and I have also Buid multiple CI/CD pipleline and setup systems to monitore like using grafana. and I am always looking to learn new technologies to optimize my workflow.  
 <li>Currently, I am focusing on <b><i>Freelance</i></b> and beyond to it, <b>SaaS</b> and <b>LLM</b>. </li>
-<li>I'm available for freelance projects! get me on whatsapp <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30px" /><a href="https://wa.me/923049043909"> +923049043909</a></li>
-<li>Email: <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="20px"/> asjidale@gmail.com</li>
 <li>LinkedIn: <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px" />
 <a href="https://www.linkedin.com/in/asjidali/" target="_blank">https://www.linkedin.com/in/asjidali</li>
 
